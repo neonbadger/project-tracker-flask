@@ -2,6 +2,9 @@
 
 A front-end for a database that allows users to work with students, class
 projects, and the grades students receive in class projects.
+
+Author: Shai Wilson, Shijie Feng
+
 """
 from flask import Flask
 from flask.ext.sqlalchemy import SQLAlchemy
